@@ -1,0 +1,57 @@
+<div style="max-width:650px; width:100%; margin:0 auto;">
+  <div style="background:linear-gradient(135deg, #2c2c2c 0%, #000000 100%); padding:15px; border-radius:25px; box-shadow:0 15px 30px rgba(0, 0, 0, 0.5); position:relative; overflow:hidden;">
+    <div style="background:linear-gradient(135deg, #e6f2ff 0%, #b3d9ff 100%); padding:25px 15px; border-radius:20px; border:3px solid #80bfff; box-shadow:0 10px 20px rgba(0, 102, 204, 0.2); position:relative; overflow:hidden;">
+      
+      <!-- Main Image -->
+      <div style="margin-bottom:20px; border-radius:15px; overflow:hidden; box-shadow:0 10px 20px rgba(0,0,0,0.1);">
+        <img src="https://raw.githubusercontent.com/pralisabeel7/emailtemplateimage/refs/heads/main/image%201.PNG" style="width:100%; height:auto; display:block; max-width:100%;" alt="Queensland Holidays">
+      </div>
+      
+      <!-- Title -->
+      <h1 style="color:#2E8B57; font-family:Arial, sans-serif; font-size:24px; font-weight:bold; text-align:center; margin:20px 0; line-height:1.3; text-shadow:2px 2px 4px rgba(0,0,0,0.1); position:relative; padding-bottom:15px;">
+        Summer Holidays in Queensland is on everybody's wish list
+        <div style="position:absolute; bottom:0; left:50%; transform:translateX(-50%); width:80px; height:3px; background:linear-gradient(to right, transparent, #2E8B57, transparent);"></div>
+      </h1>
+      
+      <!-- Subtitle -->
+      <p style="color:#0066cc; font-size:16px; text-align:center; margin-bottom:20px; line-height:1.5; font-weight:600; padding:0 10px;">
+        Get your share of the Christmas and the Summer Holiday tourism business for less than 7.5 cents pw.
+      </p>
+      
+      <!-- Website Link -->
+      <div style="text-align:center; margin:25px 0;">
+        <a href="https://www.queenslandholidays.net.au" target="_blank" style="display:inline-block; color:#0066cc; text-decoration:none; font-weight:bold; font-size:14px; padding:10px 20px; border:2px solid #0066cc; border-radius:50px; background:rgba(255, 255, 255, 0.7); box-shadow:0 5px 15px rgba(0, 102, 204, 0.2); max-width:90%; word-break:break-word;">
+          www.queenslandholidays.net.au
+        </a>
+      </div>
+      
+      <!-- Call to Action -->
+      <div style="color:#2E8B57; font-size:16px; text-align:center; margin:25px 0; line-height:1.6; font-weight:600; padding:15px; background:rgba(255, 255, 255, 0.5); border-radius:15px; border-left:4px solid #2E8B57; border-right:4px solid #2E8B57;">
+        Can you afford 7.5 cents pw to perhaps double or triple your business this season? If yes, welcome.
+        <span style="font-size:14px; display:block; margin-top:8px; font-weight:400;">[No Commissions]</span>
+      </div>
+      
+      <!-- Benefits -->
+      <div style="margin:25px 0; padding:0 10px; color:#333; line-height:1.6; font-size:14px;">
+        <p style="margin-bottom:15px; padding-left:20px; position:relative;">
+          <span style="position:absolute; left:0; color:#2E8B57; font-weight:bold; font-size:16px;">✓</span>
+          Simply register in one easy step, then design your ads online & upload them with your contact details and hyperlinked to your website.
+        </p>
+        <p style="margin-bottom:15px; padding-left:20px; position:relative;">
+          <span style="position:absolute; left:0; color:#2E8B57; font-weight:bold; font-size:16px;">✓</span>
+          All advertisements shuffle giving you greater exposure.
+        </p>
+        <p style="margin-bottom:15px; padding-left:20px; position:relative;">
+          <span style="position:absolute; left:0; color:#2E8B57; font-weight:bold; font-size:16px;">✓</span>
+          Visitors book directly with you saving you money in commissions.
+        </p>
+      </div>
+      
+      <!-- Footer Image -->
+      <div style="text-align:center; margin:30px 0 10px;">
+        <img src="https://raw.githubusercontent.com/pralisabeel7/emailtemplateimage/refs/heads/main/image%202.PNG" alt="Queensland Holidays" style="max-width:150px; width:100%; height:auto;">
+      </div>
+      
+    </div>
+  </div>
+</div>
